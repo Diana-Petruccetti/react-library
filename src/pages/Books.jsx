@@ -8,10 +8,6 @@ export default function Books() {
                     repudiandae ea asperiores ducimus veniam ex, non aliquid
                     itaque? Possimus fugit odio omnis voluptates nulla.</p>
             </main>
-
-            <footer>
-                <p>copywrite 2024</p>
-            </footer>
         </>
     )
 }
