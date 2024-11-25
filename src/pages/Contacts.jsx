@@ -5,6 +5,8 @@ export default function Contacts() {
                 <div className="logo">
                     LOGO
                 </div>
+                <MainMenu />
+
                 <nav>
                     <a href="/home">Home</a>
                     <a href="/books">Books</a>

@@ -5,6 +5,8 @@ export default function Books() {
                 <div className="logo">
                     LOGO
                 </div>
+                <MainMenu />
+
                 <nav>
                     <a href="/home">Home</a>
                     <a href="/">Books</a>
