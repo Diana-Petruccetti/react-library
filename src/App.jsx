@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
+      {/* Metti tutto dentro questo componente */}
       <BrowserRouter>
-
+        {/* La tua lista di routes qui */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/books" element={<Books />} />

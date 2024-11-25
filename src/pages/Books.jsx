@@ -1,20 +1,6 @@
 export default function Books() {
     return (
         <>
-            <header>
-                <div className="logo">
-                    LOGO
-                </div>
-                <MainMenu />
-
-                <nav>
-                    <a href="/home">Home</a>
-                    <a href="/">Books</a>
-                    <a href="/about">About</a>
-                    <a href="/contacts">Contacts</a>
-                </nav>
-            </header>
-
             <main>
                 <h1>Books</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
